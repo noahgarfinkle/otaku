@@ -4,5 +4,7 @@ Statistical analysis of and modeling of US infrastructure vulnerabilities to COV
 ## Tasks for public version of analysis
 - [x] Make map of USA water supplies by size
 - [x] Estimate water treatment plant staffing
+- [ ] Fix leading zero bug for GEOID
+- [ ] Estimate how much staff is necessary for operations, even if very course
 - [ ] Standardize water treatment staffing per area
 - [ ] Set up simple models for likelihood of outcome based on age and pre-existing condition
