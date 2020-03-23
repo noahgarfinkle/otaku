@@ -12,4 +12,4 @@ Statistical analysis of and modeling of US infrastructure vulnerabilities to COV
 - [ ] Set up a slider for staffing requirements and disease parameters and link to change colors if exceeded
 - [ ] Clean up code and add text to make a clear report
 - [x] Add pretty print names to make the graphics look nicer
-- [ ] Outline around counties which contain Army installations
+- [x] Outline around counties which contain Army installations
