@@ -14,5 +14,6 @@ This study utilizes public data about US critical infrastructure sectors in orde
 - [ ] Set up simple models for likelihood of outcome based on age and pre-existing condition
 - [ ] Set up a slider for staffing requirements and disease parameters and link to change colors if exceeded
 - [ ] Clean up code and add text to make a clear report
+- [ ] Figure out what is wrong with Florida wastewater
 - [x] Add pretty print names to make the graphics look nicer
 - [x] Outline around counties which contain Army installations
