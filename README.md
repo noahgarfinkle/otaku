@@ -18,3 +18,7 @@ This study utilizes public data about US critical infrastructure sectors in orde
 - [x] Figure out what is wrong with Florida wastewater
 - [x] Add pretty print names to make the graphics look nicer
 - [x] Outline around counties which contain Army installations
+
+## Tasks for non-public analysis
+- [ ] Make map of every water treatment plant (civilian and Army)
+- [ ] Make map of every power plant (civilian and Army)
