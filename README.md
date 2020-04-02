@@ -4,6 +4,17 @@ Statistical analysis of and modeling of US infrastructure vulnerabilities to COV
 ## Background
 This study utilizes public data about US critical infrastructure sectors in order to attempt to highlight potential challenges which may be faced in keeping the lights on and the water running during the COVID-19 pandemic.  The study is currently being completed as a course project for the Sustainable and Resilient Infrastructure Systems program at the University of Illinois at Urbana-Champaign, and in no way reflects official work or policy of the United States Federal Government or the United States Department of the Army.  This unofficial nature is reflected in the name of the study, Otaku, borrowed from Max Brooks' book World War Z's discussion of computer modeling using public data.
 
+## Instructions
+Make sure to update the data daily.  All of the code is designed to work with the folder, so nothing else should require changes unless data structure changes.  Note however this is not the most efficient way because all data must be reloaded, eventually I may implement a database and data pipeline.
+
+### JHU Data
+cd C:\users\garfink2\documents\data\covid\covid-19
+git pull
+
+### NYT Data
+cd C:\users\garfink2\documents\data\covid\covid-19-data
+git pull
+
 ## Tasks for public version of analysis
 - [x] Make map of USA water supplies by size
 - [x] Estimate water treatment plant staffing
