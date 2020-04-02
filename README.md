@@ -19,6 +19,7 @@ git pull
 - [x] Make map of USA water supplies by size
 - [x] Estimate water treatment plant staffing
 - [x] Fix leading zero bug for GEOID
+- [ ] Calculate cumulative cases and deaths
 - [ ] Estimate how much staff is necessary for operations, even if very coarse
 - [ ] Standardize water treatment staffing per area
 - [x] Have duplicated columns in gdf counties water, fix this!!!
